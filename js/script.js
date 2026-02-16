@@ -1,10 +1,7 @@
-/* VITADATA - Scripts de Comportamento
-*/
-
 document.addEventListener('DOMContentLoaded', () => {
 
-    // 1. INICIALIZAÇÃO DO CARROSSEL (SWIPER)
-    const swiper = new Swiper('.testimonial-slider', {
+    // 1. INICIALIZAÇÃO DO CARROSSEL DE DEPOIMENTOS
+    const swiperTestimonials = new Swiper('.testimonial-slider', {
         slidesPerView: 1,
         spaceBetween: 30,
         loop: true,
@@ -17,18 +14,44 @@ document.addEventListener('DOMContentLoaded', () => {
             prevEl: '.swiper-button-prev',
         },
         breakpoints: {
-            // Telas Tablets
-            768: { 
-                slidesPerView: 2 
+            768: { slidesPerView: 2 },
+            1024: { slidesPerView: 3 }
+        }
+    });
+
+    // 2. INICIALIZAÇÃO DO CARROSSEL DE PLANOS (Apenas Mobile/Tablet)
+    const swiperPricing = new Swiper('.pricing-slider', {
+        slidesPerView: 1,
+        spaceBetween: 20,
+        centeredSlides: true,
+        pagination: {
+            el: '.pricing-pagination',
+            clickable: true,
+        },
+        breakpoints: {
+            // Celulares pequenos
+            320: {
+                slidesPerView: 1.1,
+                spaceBetween: 15,
+                enabled: true
             },
-            // Telas Desktops
-            1024: { 
-                slidesPerView: 3 
+            // Celulares médios/Tablets
+            600: {
+                slidesPerView: 1.5,
+                spaceBetween: 20,
+                enabled: true
+            },
+            // Desktop (Acima de 1025px o Swiper é desativado para o grid assumir)
+            1025: {
+                enabled: false,
+                slidesPerView: 3,
+                spaceBetween: 30,
+                centeredSlides: false
             }
         }
     });
 
-    // 2. SCROLL SUAVE PARA LINKS INTERNOS
+    // 3. SCROLL SUAVE PARA LINKS INTERNOS
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             const targetId = this.getAttribute('href');

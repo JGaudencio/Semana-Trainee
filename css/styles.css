@@ -63,7 +63,7 @@ body { font-family: 'Inter', sans-serif; background-color: var(--bg-light); colo
 .feature-list li { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; font-weight: 500; color: var(--heading-color); font-size: 1.05rem; }
 .check-icon { width: 28px; height: 28px; background: var(--dark-green); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px; flex-shrink: 0; }
 
-/* --- ABOUT (ESPECÍFICO) --- */
+/* --- ABOUT --- */
 .about { background-color: #F8FAF8; }
 .about-card { background: #EDF1ED; border: none; padding: 50px 35px; transition: 0.3s ease; }
 .about-card:hover { background: var(--white); box-shadow: var(--card-shadow); transform: translateY(-5px); }
@@ -94,10 +94,66 @@ body { font-family: 'Inter', sans-serif; background-color: var(--bg-light); colo
 .rating-footer { display: inline-flex; align-items: center; gap: 10px; margin-top: 50px; background: #F1F4F1; padding: 10px 25px; border-radius: 50px; }
 .stars-gold { color: #FFC107; }
 
-/* --- FOOTER --- */
-.main-footer { padding: 40px 0; text-align: center; border-top: 1px solid #eee; color: #999; font-size: 0.9rem; }
+/* --- PRICING (MODIFICADO PARA CARROSSEL) --- */
+.pricing { padding: 100px 0; background-color: var(--white); text-align: center; overflow: hidden; }
+.pricing-header { margin-bottom: 60px; }
+.pricing-slider-container { position: relative; width: 100%; max-width: 1200px; margin: 0 auto; }
 
-/* --- RESPONSIVIDADE --- */
+.pricing-card { 
+    background: white; 
+    padding: 60px 40px 40px; 
+    border-radius: 20px; 
+    border: 1px solid #eee; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between; 
+    transition: 0.3s; 
+    position: relative;
+    height: 100%; /* Importante para o Swiper */
+}
+
+.pricing-card.featured { 
+    border: 2px solid var(--dark-green); 
+    box-shadow: 0 20px 40px rgba(61, 90, 69, 0.1); 
+    z-index: 2; 
+}
+
+.popular-tag { position: absolute; top: -15px; left: 50%; transform: translateX(-50%); background: var(--dark-green); color: white; padding: 6px 20px; border-radius: 20px; font-size: 13px; font-weight: 600; }
+.pricing-card h3 { font-size: 1.8rem; color: var(--heading-color); margin-bottom: 30px; }
+.taxa-adesao p, .mensalidade p { font-size: 0.85rem; color: #888; margin-bottom: 5px; text-transform: uppercase; letter-spacing: 1px; }
+.old-price { display: block; text-decoration: line-through; color: #bbb; font-size: 0.9rem; margin-bottom: -5px; }
+.new-price { display: block; font-size: 2rem; font-weight: 800; color: var(--heading-color); margin-bottom: 30px; }
+.monthly-value { display: block; font-size: 2.2rem; font-weight: 800; color: var(--heading-color); margin-bottom: 30px; }
+.monthly-value small { font-size: 1rem; color: #666; font-weight: 500; }
+.promo-box { background: #F1F4F1; padding: 15px; border-radius: 12px; font-size: 0.9rem; color: var(--dark-green); margin-bottom: 40px; min-height: 60px; display: flex; align-items: center; justify-content: center; }
+.pricing-features { list-style: none; text-align: left; margin-bottom: 40px; }
+.pricing-features li { display: flex; align-items: center; gap: 12px; margin-bottom: 15px; font-size: 0.95rem; }
+.btn-outline-pricing, .btn-filled-pricing { padding: 15px; border-radius: 10px; text-decoration: none; font-weight: 700; transition: 0.3s; display: block; text-align: center; }
+.btn-outline-pricing { border: 1px solid var(--dark-green); color: var(--dark-green); }
+.btn-outline-pricing:hover { background: var(--dark-green); color: white; }
+.btn-filled-pricing { background: var(--dark-green); color: white; }
+.btn-filled-pricing:hover { transform: translateY(-3px); }
+.pricing-note { margin-top: 40px; font-size: 0.85rem; color: #999; }
+
+/* Paginação do Swiper nos Planos */
+.pricing-pagination { position: relative !important; margin-top: 30px !important; }
+.pricing-pagination .swiper-pagination-bullet-active { background: var(--dark-green); }
+
+/* --- RESPONSIVIDADE E AJUSTES DO GRID --- */
+
+/* Desktop: Força o grid de 3 colunas e desabilita visual do slider */
+@media (min-width: 1025px) {
+    .pricing-slider .swiper-wrapper {
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 30px;
+        transform: none !important;
+    }
+    .pricing-card.featured { transform: scale(1.05); }
+    .pricing-pagination { display: none !important; }
+    .pricing-slider { overflow: visible !important; }
+}
+
 @media (max-width: 1024px) {
     .nav-links { display: none; }
     .hero { background-image: linear-gradient(0deg, var(--bg-light) 50%, rgba(253,253,253,0.8) 100%), url('../assets/medico-hero.png'); background-position: center bottom; background-size: cover; text-align: center; }
@@ -106,4 +162,10 @@ body { font-family: 'Inter', sans-serif; background-color: var(--bg-light); colo
     .feature-grid { grid-template-columns: 1fr; gap: 50px; text-align: center; }
     .feature-list li { justify-content: flex-start; }
     .transform-banner { padding: 80px 20px; }
+    
+    /* No mobile, o slider precisa de espaço para as sombras laterais */
+    .pricing-slider { padding: 20px 20px 40px !important; }
 }
+
+/* --- FOOTER --- */
+.main-footer { padding: 40px 0; text-align: center; border-top: 1px solid #eee; color: #999; font-size: 0.9rem; }
