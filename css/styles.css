@@ -1,0 +1,4309 @@
+.sem-t-tulo-c-pia,
+.sem-t-tulo-c-pia * {
+  box-sizing: border-box;
+}
+.sem-t-tulo-c-pia {
+  background: #ffffff;
+  height: 6514px;
+  position: relative;
+}
+.app {
+  background: #ffffff;
+  width: 1152px;
+  height: 6513.77px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.main-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1152px;
+  height: 6117.98px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.hero-section {
+  background: linear-gradient(
+    180deg,
+    rgba(240, 253, 244, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 128px 80px 0px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 798px;
+  position: relative;
+}
+.container {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 588px;
+  position: relative;
+}
+.container2 {
+  width: 472px;
+  height: 588px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container3 {
+  background: rgba(163, 177, 138, 0.58);
+  border-radius: 26843500px;
+  width: 187px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.sa-de-inteligente {
+  color: #294235;
+  text-align: left;
+  font-family: "DmSans-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 26px;
+  top: 8px;
+}
+.heading-1 {
+  width: 472px;
+  height: 240px;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+}
+.transforme-dados-em {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 684px;
+  height: 54px;
+}
+.text {
+  width: 516px;
+  height: 140px;
+  position: absolute;
+  left: 0px;
+  top: 110px;
+}
+.paragraph {
+  width: 660px;
+  height: 84px;
+  position: absolute;
+  left: 0px;
+  top: 17px;
+}
+.intelig-ncia-de-dados-acess-vel-para-gestores-de-p {
+  color: #4a5565;
+  text-align: left;
+  font-family: "DmSans-Medium", sans-serif;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: -2px;
+  width: 472px;
+}
+.container4 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 472px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 56px;
+}
+.button {
+  background: linear-gradient(
+    90deg,
+    rgba(35, 48, 34, 1) 0%,
+    rgba(88, 129, 87, 1) 100%
+  );
+  border-radius: 8px;
+  flex-shrink: 0;
+  width: 187.14px;
+  height: 40px;
+  position: relative;
+}
+.agende-uma-reuni-o {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 13px;
+  top: 8.8px;
+}
+.icon {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 155.14px;
+  top: 12px;
+  overflow: visible;
+}
+.button2 {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 0.8px;
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 117.56px;
+  height: 40px;
+  position: relative;
+}
+.saiba-mais {
+  color: #0a0a0a;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.clareza-estrat-gica {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    linear-gradient(90deg, rgba(58, 90, 64, 1) 0%, rgba(88, 129, 87, 1) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 54px;
+  width: 795px;
+}
+.container5 {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 472px;
+  height: 60px;
+  position: absolute;
+  left: 0px;
+  top: 317px;
+}
+.container6 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 128.11px;
+  height: 60px;
+  position: relative;
+}
+.container7 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 36px;
+  position: relative;
+}
+._50 {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.6px;
+}
+.container8 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.cl-nicas-atendidas {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.container9 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 70.79px;
+  height: 60px;
+  position: relative;
+}
+._95 {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.6px;
+}
+.satisfa-o {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.container10 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 65.08px;
+  height: 60px;
+  position: relative;
+}
+._24-7 {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.6px;
+}
+.suporte {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.solution-section {
+  background: #ffffff;
+  padding: 80px 80px 0px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 680px;
+  position: relative;
+}
+.container11 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 128px;
+  position: relative;
+}
+.heading-2 {
+  width: 992px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.a-solu-o-completa-para-sua-cl-nica {
+  color: #101828;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 102.46px;
+  top: -5px;
+}
+.paragraph2 {
+  width: 768px;
+  height: 56px;
+  position: absolute;
+  left: 112px;
+  top: 72px;
+}
+.conectamos-sa-de-gest-o-e-tecnologia-para-transfo {
+  color: #4a5565;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 0.88px;
+  top: -2.2px;
+  width: 767px;
+}
+.container12 {
+  align-self: stretch;
+  flex-shrink: 0;
+  display: grid;
+  gap: 32px;
+  position: relative;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: repeat(1, minmax(0, 1fr));
+}
+.container13 {
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 0.8px;
+  height: 301.6px;
+  position: relative;
+  grid-column: 1 / span 1;
+  grid-row: 1 / span 1;
+}
+.container14 {
+  background: linear-gradient(
+    135deg,
+    rgba(52, 78, 65, 1) 0%,
+    rgba(88, 129, 87, 1) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 24.8px;
+  top: 24.8px;
+}
+.icon2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.heading-3 {
+  width: 174.4px;
+  height: 56px;
+  position: absolute;
+  left: 24.8px;
+  top: 88.8px;
+}
+.intelig-ncia-acess-vel {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0.2px;
+  top: -1.8px;
+  width: 162px;
+}
+.paragraph3 {
+  width: 199px;
+  height: 120px;
+  position: absolute;
+  left: 25px;
+  top: 157px;
+}
+.an-lises-complexas-apresentadas-de-forma-clara-e-v {
+  color: #4a5565;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2px;
+  width: 176px;
+}
+.container15 {
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 0.8px;
+  height: 301.6px;
+  position: relative;
+  grid-column: 2 / span 1;
+  grid-row: 1 / span 1;
+}
+.icon3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.dashboards-personalizados {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0.2px;
+  top: -1.8px;
+  width: 165px;
+}
+.paragraph4 {
+  width: 174.4px;
+  height: 96px;
+  position: absolute;
+  left: 24.8px;
+  top: 156.8px;
+}
+.visualize-seus-dados-cl-nicos-e-operacionais-em-te {
+  color: #4a5565;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0.2px;
+  top: -1.8px;
+  width: 184px;
+}
+.container16 {
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 0.8px;
+  height: 301.6px;
+  position: relative;
+  grid-column: 3 / span 1;
+  grid-row: 1 / span 1;
+}
+.icon4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.decis-es-mais-r-pidas {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+  width: 132px;
+}
+.insights-acion-veis-que-ajudam-voc-a-tomar-decis {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0.2px;
+  top: -1.8px;
+  width: 186px;
+}
+.container17 {
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 0.8px;
+  height: 301.6px;
+  position: relative;
+  grid-column: 4 / span 1;
+  grid-row: 1 / span 1;
+}
+.icon5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.seguran-a-e-conformidade {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0.2px;
+  top: -1.8px;
+  width: 189px;
+}
+.paragraph5 {
+  width: 174.4px;
+  height: 120px;
+  position: absolute;
+  left: 24.8px;
+  top: 156.8px;
+}
+.prote-o-total-dos-dados-de-pacientes-seguindo-lgp {
+  color: #4a5565;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0.2px;
+  top: -1.8px;
+  width: 174px;
+}
+.benefits-section {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(243, 245, 240, 1) 100%
+  );
+  padding: 80px 80px 0px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 704px;
+  position: relative;
+}
+.container18 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 544px;
+  position: relative;
+}
+.image-with-fallback {
+  background: linear-gradient(
+    to left,
+    rgba(255, 255, 255, 0),
+    rgba(255, 255, 255, 0)
+  );
+  border-radius: 16px;
+  width: 472px;
+  height: 265.71px;
+  position: absolute;
+  left: 0px;
+  top: 139.14px;
+  box-shadow: 0px 25px 50px -12px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  object-fit: cover;
+}
+.container19 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 472px;
+  height: 544px;
+  position: absolute;
+  left: 520px;
+  top: 0px;
+}
+.heading-22 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 96px;
+  position: relative;
+}
+.por-que-escolher-a-vitadata {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -5px;
+  width: 414px;
+}
+.paragraph6 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 84px;
+  position: relative;
+}
+.somos-especialistas-em-traduzir-complexidade-t-cni {
+  color: #4a5565;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2px;
+  width: 400px;
+}
+.container20 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 308px;
+  position: relative;
+}
+.container21 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.container22 {
+  background: linear-gradient(
+    135deg,
+    rgba(52, 78, 65, 1) 0%,
+    rgba(88, 129, 87, 1) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.icon6 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.paragraph7 {
+  width: 436px;
+  height: 48px;
+  position: absolute;
+  left: 36px;
+  top: 0px;
+}
+.reduza-custos-operacionais-com-decis-es-baseadas-e {
+  color: #364153;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+  width: 391px;
+}
+.container23 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 28px;
+  position: relative;
+}
+.icon7 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.paragraph8 {
+  width: 389.45px;
+  height: 24px;
+  position: absolute;
+  left: 36px;
+  top: 0px;
+}
+.identifique-oportunidades-de-crescimento-e-otimiza {
+  color: #364153;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.icon8 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.melhore-a-experi-ncia-dos-pacientes-com-insights-c {
+  color: #364153;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+  width: 351px;
+}
+.icon9 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.aumente-a-produtividade-da-equipe-com-processos-ot {
+  color: #364153;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+  width: 365px;
+}
+.icon10 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.paragraph9 {
+  width: 332.51px;
+  height: 24px;
+  position: absolute;
+  left: 36px;
+  top: 0px;
+}
+.monitore-kp-is-em-tempo-real-sem-complica-o {
+  color: #364153;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.icon11 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.paragraph10 {
+  width: 341.24px;
+  height: 24px;
+  position: absolute;
+  left: 36px;
+  top: 0px;
+}
+.integra-o-simples-com-seus-sistemas-existentes {
+  color: #364153;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.mission-section {
+  background: #ffffff;
+  padding: 80px 80px 0px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1077.59px;
+  position: relative;
+}
+.quem-somos {
+  color: #101828;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 351.35px;
+  top: -5px;
+}
+.atuamos-na-interse-o-entre-sa-de-gest-o-e-tecnol {
+  color: #4a5565;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 16.28px;
+  top: -2.2px;
+  width: 736px;
+}
+.container24 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 277.59px;
+  position: relative;
+}
+.container25 {
+  background: rgba(163, 177, 138, 0.13);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #dcfce7;
+  border-width: 0.8px;
+  padding: 0.8px;
+  width: 309.33px;
+  height: 277.59px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container26 {
+  background: linear-gradient(
+    135deg,
+    rgba(52, 78, 65, 1) 0%,
+    rgba(88, 129, 87, 1) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 32.8px;
+  top: 32.8px;
+}
+.icon12 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+}
+.heading-32 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 243.73px;
+  height: 31.99px;
+  position: absolute;
+  left: 32.8px;
+  top: 104.8px;
+}
+.nossa-miss-o {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.paragraph11 {
+  width: 243.73px;
+  height: 96px;
+  position: absolute;
+  left: 32.8px;
+  top: 148.79px;
+}
+.transformar-dados-cl-nicos-e-operacionais-em-clare {
+  color: #4a5565;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+  width: 201px;
+}
+.container27 {
+  background: rgba(163, 177, 138, 0.13);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #dcfce7;
+  border-width: 0.8px;
+  padding: 0.8px;
+  width: 309.34px;
+  height: 277.59px;
+  position: absolute;
+  left: 341.33px;
+  top: 0px;
+}
+.icon13 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+}
+.heading-33 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 243.74px;
+  height: 31.99px;
+  position: absolute;
+  left: 32.8px;
+  top: 104.8px;
+}
+.nosso-foco {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.paragraph12 {
+  width: 243.74px;
+  height: 72px;
+  position: absolute;
+  left: 32.8px;
+  top: 148.79px;
+}
+.gestores-n-o-t-cnicos-que-precisam-de-insights-aci {
+  color: #4a5565;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+  width: 222px;
+}
+.container28 {
+  background: rgba(163, 177, 138, 0.13);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #dcfce7;
+  border-width: 0.8px;
+  padding: 0.8px;
+  width: 309.33px;
+  height: 277.59px;
+  position: absolute;
+  left: 682.66px;
+  top: 0px;
+}
+.icon14 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+}
+.nossa-vis-o {
+  color: #101828;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.paragraph13 {
+  width: 243.73px;
+  height: 72px;
+  position: absolute;
+  left: 32.8px;
+  top: 148.79px;
+}
+.democratizar-o-acesso-intelig-ncia-de-dados-no-s {
+  color: #4a5565;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+  width: 236px;
+}
+.container29 {
+  border-radius: 16px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 384px;
+  position: relative;
+  overflow: hidden;
+}
+.image-with-fallback2 {
+  width: 992px;
+  height: 384px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container30 {
+  background: linear-gradient(
+    90deg,
+    rgba(13, 84, 43, 0.9) 0%,
+    rgba(0, 79, 59, 0.9) 100%
+  );
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 992px;
+  height: 384px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container31 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 650px;
+  height: 81px;
+  position: relative;
+}
+.heading-34 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+}
+.pronto-para-transformar-sua-gest-o {
+  color: #ffffff;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 9px;
+  top: -3px;
+}
+.paragraph14 {
+  opacity: 0.9;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 28px;
+  position: relative;
+}
+.descubra-como-a-vita-data-pode-revolucionar-sua-cl {
+  color: #ffffff;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 43.59px;
+  top: -2.2px;
+}
+.testimonials-section {
+  background: #ffffff;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 956px;
+  position: relative;
+}
+.container32 {
+  width: 992px;
+  height: 100px;
+  position: absolute;
+  left: 80px;
+  top: 80px;
+}
+.o-que-nossos-clientes-dizem {
+  color: #101828;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 190.81px;
+  top: -5px;
+}
+.paragraph15 {
+  width: 768px;
+  height: 28px;
+  position: absolute;
+  left: 112px;
+  top: 72px;
+}
+.gestores-de-cl-nicas-de-todo-o-brasil-j-transform {
+  color: #4a5565;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 2.63px;
+  top: -2.2px;
+}
+.carousel {
+  width: 992px;
+  height: 534.4px;
+  position: absolute;
+  left: 80px;
+  top: 244px;
+}
+.carousel-content {
+  padding: 0px 165.87px 0px -181.87px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 992px;
+  height: 534.4px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.container33 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 534.4px;
+  position: relative;
+}
+.carousel-item {
+  padding: 8px 8px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 336px;
+  height: 534.4px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.card {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 24px 0px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 518.4px;
+  position: relative;
+}
+.testimonials-section2 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 254.4px;
+  height: 20px;
+  position: relative;
+}
+.icon15 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon16 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon17 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon18 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon19 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon20 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.testimonials-section3 {
+  flex: 1;
+  width: 254.4px;
+  position: relative;
+}
+.a-vita-data-transformou-completamente-nossa-gest-o {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.4px;
+  width: 224px;
+}
+.testimonials-section4 {
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.8px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 254.4px;
+  height: 80.8px;
+  position: relative;
+}
+.image-dr-ricardo-almeida {
+  border-radius: 26843500px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container34 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 149.5px;
+  height: 64px;
+  position: relative;
+}
+.dr-ricardo-almeida {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.container35 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 20px;
+  position: relative;
+}
+.diretor-m-dico {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.cl-nica-s-o-lucas {
+  color: #388e36;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.carousel-item2 {
+  padding: 8px 8px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 336px;
+  height: 534.4px;
+  position: absolute;
+  left: 336px;
+  top: 0px;
+}
+.icon21 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon22 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon23 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon24 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon25 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon26 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.finalmente-conseguimos-entender-nossos-n-meros-de {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.4px;
+  width: 250px;
+}
+.image-dra-fernanda-costa {
+  border-radius: 26843500px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container36 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 164.89px;
+  height: 64px;
+  position: relative;
+}
+.dra-fernanda-costa {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.gestora {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.centro-m-dico-vida-plena {
+  color: #388e36;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.carousel-item3 {
+  padding: 8px 8px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 336px;
+  height: 534.4px;
+  position: absolute;
+  left: 672px;
+  top: 0px;
+}
+.icon27 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon28 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon29 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon30 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon31 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon32 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.os-insights-que-recebemos-mudaram-nossa-tomada-de {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.4px;
+  width: 253px;
+}
+.image-carlos-mendes {
+  border-radius: 26843500px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container37 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 110px;
+  height: 64px;
+  position: relative;
+}
+.carlos-mendes {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.administrador {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.cl-nica-harmonia {
+  color: #388e36;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.card2 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 24px 0px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 304px;
+  height: 518.4px;
+  position: absolute;
+  left: 1032px;
+  top: 8px;
+}
+.icon33 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon34 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon35 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon36 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon37 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon38 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.a-vita-data-nos-deu-clareza-estrat-gica-conseguim {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.4px;
+  width: 250px;
+}
+.image-dra-paula-silveira {
+  border-radius: 26843500px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container38 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 135.57px;
+  height: 64px;
+  position: relative;
+}
+.dra-paula-silveira {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.propriet-ria {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.cl-nica-bem-estar {
+  color: #388e36;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.card3 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 24px 0px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 304px;
+  height: 518.4px;
+  position: absolute;
+  left: 1368px;
+  top: 8px;
+}
+.icon39 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon40 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon41 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon42 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon43 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon44 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.implementa-o-r-pida-equipe-extremamente-profiss {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.4px;
+  width: 239px;
+}
+.image-dr-marcos-oliveira {
+  border-radius: 26843500px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container39 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 181.04px;
+  height: 64px;
+  position: relative;
+}
+.dr-marcos-oliveira {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.s-cio-fundador {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.instituto-de-sa-de-avan-ada {
+  color: #00a63e;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.card4 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 24px 0px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 304px;
+  height: 518.4px;
+  position: absolute;
+  left: 1704px;
+  top: 8px;
+}
+.icon45 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon46 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon47 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon48 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon49 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon50 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.a-diferen-a-gritante-sa-mos-da-gest-o-no-escu {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.4px;
+  width: 240px;
+}
+.image-ana-paula-santos {
+  border-radius: 26843500px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container40 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 181.51px;
+  height: 64px;
+  position: relative;
+}
+.ana-paula-santos {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.coordenadora-administrativa {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.policl-nica-sa-de-total {
+  color: #00a63e;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.button3 {
+  background: #ffffff;
+  border-radius: 26843500px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 0.8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: -48px;
+  top: 251.2px;
+}
+.icon51 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.button4 {
+  background: #ffffff;
+  border-radius: 26843500px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 0.8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1008px;
+  top: 251.2px;
+}
+.icon52 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.container41 {
+  background: rgba(163, 177, 138, 0.13);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #dcfce7;
+  border-width: 0.8px;
+  padding: 0.8px;
+  width: 413.63px;
+  height: 49.6px;
+  position: absolute;
+  left: 369.19px;
+  top: 826.4px;
+}
+.container42 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 96px;
+  height: 16px;
+  position: absolute;
+  left: 24.8px;
+  top: 16.8px;
+}
+.icon53 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.icon54 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.icon55 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.icon56 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.icon57 {
+  flex: 1;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.text2 {
+  width: 260.02px;
+  height: 24px;
+  position: absolute;
+  left: 128.8px;
+  top: 12.8px;
+}
+._4-9-5-0-baseado-em-45-avalia-es {
+  color: #364153;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 3px;
+  top: -2.2px;
+}
+.pricing-section {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(243, 245, 240, 1) 100%
+  );
+  padding: 80px 64px 0px 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1048.79px;
+  position: relative;
+}
+.container43 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 888.79px;
+  position: relative;
+}
+.container44 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+}
+.planos-de-assinatura-e-investimento {
+  color: #101828;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 107.88px;
+  top: -5px;
+}
+.escolha-o-plano-ideal-para-o-tamanho-e-necessidade {
+  color: #4a5565;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 70.93px;
+  top: -2.2px;
+}
+.carousel2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 589px;
+  position: relative;
+}
+.carousel-content2 {
+  width: 1008px;
+  height: 720px;
+  position: absolute;
+  left: -8px;
+  top: calc(50% - 343.09px);
+  overflow: hidden;
+}
+.container45 {
+  width: 1008px;
+  height: 720px;
+  position: absolute;
+  left: -9px;
+  top: 18px;
+}
+.card5 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 32px 0px 0px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 304px;
+  height: 635.19px;
+  position: absolute;
+  left: 24px;
+  top: 8px;
+}
+.pricing-section2 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 238.4px;
+  height: 211.99px;
+  position: relative;
+}
+.heading-35 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 31.99px;
+  position: relative;
+}
+.essencial {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.container46 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 80px;
+  position: relative;
+}
+.taxa-de-ades-o {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 69.43px;
+  top: -1.2px;
+}
+.r-1-562-50 {
+  color: #99a1af;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  text-decoration: line-through;
+  position: absolute;
+  left: 81.64px;
+  top: -1.2px;
+}
+.r-1-250-00 {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 36.74px;
+  top: -2.6px;
+}
+.container47 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 60px;
+  position: relative;
+}
+.mensalidade {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 78.9px;
+  top: -1.2px;
+}
+.text3 {
+  width: 139.54px;
+  height: 36px;
+  position: absolute;
+  left: 35px;
+  top: 0px;
+}
+.r-450-00 {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1px;
+  top: -2.6px;
+}
+.text4 {
+  width: 24.86px;
+  height: 20px;
+  position: absolute;
+  left: 178.54px;
+  top: 14.4px;
+}
+.fixo {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -1px;
+  top: -1.2px;
+}
+.pricing-section3 {
+  background: rgba(163, 177, 138, 0.17);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #cdd0c8;
+  border-width: 0.8px;
+  padding: 12.8px 12.8px 0.8px 12.8px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 238.4px;
+  height: 65.6px;
+  position: relative;
+}
+.paragraph16 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+}
+._20-de-desconto-na-taxa-de-ades-o {
+  color: #344e41;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 5.45px;
+  top: -1.2px;
+  width: 202px;
+}
+.pricing-section4 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 238.4px;
+  height: 104px;
+  position: relative;
+}
+.container48 {
+  background: rgba(88, 113, 91, 0.17);
+  border-radius: 26843500px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+}
+.icon58 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.container49 {
+  width: 206.4px;
+  height: 24px;
+  position: absolute;
+  left: 32px;
+  top: 0px;
+}
+.text5 {
+  width: 80.64px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.relat-rios {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -3px;
+  width: 81px;
+}
+.text6 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 57.39px;
+  height: 21.6px;
+  position: absolute;
+  left: 80.64px;
+  top: -1.2px;
+}
+.mensais {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icon59 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.text7 {
+  width: 93.99px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.dashboards {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -3px;
+  width: 94px;
+}
+.text8 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 51.54px;
+  height: 21.6px;
+  position: absolute;
+  left: 93.99px;
+  top: -2.2px;
+}
+.b-sicos {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icon60 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.text9 {
+  width: 66.08px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.suporte2 {
+  color: #101828;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -3px;
+  width: 67px;
+}
+.text10 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 44.17px;
+  height: 21.6px;
+  position: absolute;
+  left: 66.07px;
+  top: -1.2px;
+}
+.e-mail {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.button5 {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #4c6f4f;
+  border-width: 1.6px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 238.4px;
+  height: 36px;
+  position: relative;
+}
+.contratar-plano {
+  color: #4c6f4f;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.card6 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #588157;
+  border-width: 1.6px;
+  padding: 1.6px;
+  width: 304px;
+  height: 640.79px;
+  position: absolute;
+  left: 360px;
+  top: 8px;
+  box-shadow: 0px 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+.pricing-section5 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 236.8px;
+  height: 191.99px;
+  position: absolute;
+  left: 33.6px;
+  top: 33.6px;
+}
+.performance {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.taxa-de-ades-o2 {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 68.63px;
+  top: -1.2px;
+}
+.r-3-800-00 {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 35.94px;
+  top: -2.6px;
+}
+.mensalidade2 {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 78.1px;
+  top: -1.2px;
+}
+.text11 {
+  width: 68.66px;
+  height: 36px;
+  position: absolute;
+  left: 32.73px;
+  top: 0px;
+}
+._1-5 {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.6px;
+}
+.text12 {
+  width: 98.68px;
+  height: 20px;
+  position: absolute;
+  left: 105.39px;
+  top: 14.4px;
+}
+.do-faturamento {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.2px;
+}
+.pricing-section6 {
+  background: rgba(163, 177, 138, 0.17);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #cdd0c8;
+  border-width: 0.8px;
+  padding: 12.8px 12.8px 0.8px 12.8px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 236.8px;
+  height: 65.6px;
+  position: absolute;
+  left: 33.6px;
+  top: 273.59px;
+}
+.desconto-progressivo-nos-3-primeiros-meses {
+  color: #344e41;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 6.2px;
+  top: -1.2px;
+  width: 199px;
+}
+.desconto-progressivo-nos-3-primeiros-meses-span {
+  font-family: "Arimo-Bold", sans-serif;
+  font-weight: 700;
+}
+.desconto-progressivo-nos-3-primeiros-meses-span2 {
+  font-family: "Arimo-Regular", sans-serif;
+}
+.pricing-section7 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 236.8px;
+  height: 128px;
+  position: absolute;
+  left: 33.6px;
+  top: 387.19px;
+}
+.icon61 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.container50 {
+  width: 204.8px;
+  height: 24px;
+  position: absolute;
+  left: 32px;
+  top: 2px;
+}
+.text13 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 66.65px;
+  height: 21.6px;
+  position: absolute;
+  left: 80.64px;
+  top: -1.2px;
+}
+.semanais {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icon62 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.container51 {
+  width: 204.8px;
+  height: 24px;
+  position: absolute;
+  left: 32px;
+  top: 0px;
+}
+.text14 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 75.99px;
+  height: 21.6px;
+  position: absolute;
+  left: 93.99px;
+  top: -2.2px;
+}
+.avan-ados {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icon63 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.container52 {
+  width: 204.8px;
+  height: 48px;
+  position: absolute;
+  left: 32px;
+  top: 0px;
+}
+.text15 {
+  width: 219px;
+  height: 46px;
+  position: absolute;
+  left: 0.4px;
+  top: 0.81px;
+}
+.whats-app-priorit-rio {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: -2px;
+  width: 183px;
+}
+.button6 {
+  background: linear-gradient(
+    135deg,
+    rgba(52, 78, 65, 1) 0%,
+    rgba(88, 129, 87, 1) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 236.8px;
+  height: 36px;
+  position: absolute;
+  left: 33.6px;
+  top: 571.19px;
+}
+.contratar-plano2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.badge {
+  background: linear-gradient(
+    135deg,
+    rgba(52, 78, 65, 1) 0%,
+    rgba(88, 129, 87, 1) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 138px;
+  height: 28px;
+  position: absolute;
+  left: 87px;
+  top: -14px;
+  overflow: hidden;
+}
+.icon64 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.mais-popular {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.card7 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.8px;
+  padding: 32px 0px 0px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 304px;
+  height: 635.19px;
+  position: absolute;
+  left: 696px;
+  top: 8px;
+}
+.estrat-gico {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.r-7-500-00 {
+  color: #99a1af;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  text-decoration: line-through;
+  position: absolute;
+  left: 81.64px;
+  top: -1.2px;
+}
+.r-3-750-00 {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 36.74px;
+  top: -2.6px;
+}
+.text16 {
+  width: 68.66px;
+  height: 36px;
+  position: absolute;
+  left: 33.53px;
+  top: 0px;
+}
+._3-0 {
+  color: #101828;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.6px;
+}
+.text17 {
+  width: 98.68px;
+  height: 20px;
+  position: absolute;
+  left: 106.19px;
+  top: 14.4px;
+}
+.isen-o-de-50-na-taxa-de-ades-o-para-contratos {
+  color: #344e41;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 10.64px;
+  top: -1.2px;
+  width: 192px;
+}
+.pricing-section8 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 238.4px;
+  position: relative;
+}
+.icon65 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.text18 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 81.63px;
+  height: 21.6px;
+  position: absolute;
+  left: 80.64px;
+  top: -1.2px;
+}
+.tempo-real {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icon66 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.text19 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 99.18px;
+  height: 21.6px;
+  position: absolute;
+  left: 93.99px;
+  top: -1.2px;
+}
+.customizados {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icon67 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.container53 {
+  width: 206.4px;
+  height: 24px;
+  position: absolute;
+  left: 32px;
+  top: 2px;
+}
+.text20 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 127.71px;
+  height: 21.6px;
+  position: absolute;
+  left: 66.08px;
+  top: -1.2px;
+}
+.gerente-dedicado {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.button7 {
+  background: #344e41;
+  border-radius: 26843500px;
+  border-style: solid;
+  border-color: rgba(0, 166, 62, 0);
+  border-width: 0.8px;
+  opacity: 0.5;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: -48px;
+  top: 312.39px;
+}
+.icon68 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.button8 {
+  background: #588157;
+  border-radius: 26843500px;
+  border-style: solid;
+  border-color: rgba(0, 166, 62, 0);
+  border-width: 0.8px;
+  opacity: 0.5;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1008px;
+  top: 312.39px;
+}
+.icon69 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.paragraph17 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 20px;
+  position: relative;
+}
+.valores-promocionais-v-lidos-para-novas-assinatu {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 326.18px;
+  top: -1.2px;
+}
+.cta-section {
+  background: linear-gradient(
+    135deg,
+    rgba(88, 129, 87, 1) 0%,
+    rgba(52, 78, 65, 1) 50%,
+    rgba(68, 135, 66, 1) 100%
+  );
+  padding: 80px 128px 0px 128px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 882px;
+  position: relative;
+}
+.container54 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 722px;
+  position: relative;
+}
+.heading-23 {
+  width: 896px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.comece-sua-transforma-o-digital-hoje {
+  color: #ffffff;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: -28px;
+  top: -0.38px;
+  width: 951px;
+}
+.paragraph18 {
+  width: 896px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 72px;
+}
+.preencha-o-formul-rio-e-nossa-equipe-entrar-em-co {
+  color: #dcfce7;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: -22px;
+  top: 57.63px;
+  width: 936px;
+  height: 35px;
+}
+.container55 {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 32px 32px 0px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 896px;
+  height: 426px;
+  position: absolute;
+  left: 0px;
+  top: 176px;
+  box-shadow: 0px 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container56 {
+  align-self: stretch;
+  flex-shrink: 0;
+  display: grid;
+  gap: 24px;
+  position: relative;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-rows: repeat(1, minmax(0, 1fr));
+}
+.container57 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 70px;
+  position: relative;
+  grid-column: 1 / span 1;
+  grid-row: 1 / span 1;
+}
+.primitive-label {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 14px;
+  position: relative;
+}
+.nome-completo {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.4px;
+}
+.input {
+  background: #f3f3f5;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 0.8px;
+  padding: 4px 12px 4px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.seu-nome-completo {
+  color: #717182;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.container58 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 70px;
+  position: relative;
+  grid-column: 2 / span 1;
+  grid-row: 1 / span 1;
+}
+.e-mail2 {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.4px;
+}
+.seu-email-com {
+  color: #717182;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.telefone-whats-app {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.4px;
+}
+._11-99999-9999 {
+  color: #717182;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.faturamento-mensal {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.4px;
+}
+.ex-r-50-000-00 {
+  color: #717182;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.container59 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 58px;
+  position: relative;
+}
+.plano-de-interesse {
+  color: #364153;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.4px;
+}
+.primitive-button {
+  background: #f3f3f5;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 0.8px;
+  padding: 0px 12px 0px 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 36px;
+  position: relative;
+}
+.primitive-span {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 124.56px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.selecione-um-plano {
+  color: #717182;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.icon70 {
+  opacity: 0.5;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.button9 {
+  background: linear-gradient(
+    90deg,
+    rgba(57, 85, 68, 1) 0%,
+    rgba(82, 120, 83, 1) 100%
+  );
+  border-radius: 8px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 56px;
+  position: relative;
+}
+.enviar-solicita-o {
+  color: #ffffff;
+  text-align: center;
+  font-family: "DmSans-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 322.85px;
+  top: 12.6px;
+}
+.icon71 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 487.14px;
+  top: 20px;
+  overflow: visible;
+}
+.sem-compromisso-nossa-equipe-entrar-em-contato-e {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 196.3px;
+  top: -1.2px;
+}
+.container60 {
+  width: 896px;
+  height: 72px;
+  position: absolute;
+  left: 0px;
+  top: 650px;
+}
+.container61 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 277.33px;
+  height: 72px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container62 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+}
+._24-h {
+  color: #ffffff;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 108.11px;
+  top: -3px;
+}
+.tempo-de-resposta {
+  color: #b9f8cf;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 65.81px;
+  top: -2.2px;
+}
+.container63 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 277.34px;
+  height: 72px;
+  position: absolute;
+  left: 309.33px;
+  top: 0px;
+}
+.gr-tis {
+  color: #ffffff;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 88.97px;
+  top: -3px;
+}
+.consultoria-inicial {
+  color: #b9f8cf;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 73.03px;
+  top: -2.2px;
+}
+.container64 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 277.33px;
+  height: 72px;
+  position: absolute;
+  left: 618.66px;
+  top: 0px;
+}
+._100 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 91.99px;
+  top: -3px;
+}
+.personalizado {
+  color: #b9f8cf;
+  text-align: center;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 87.86px;
+  top: -2.2px;
+}
+.footer {
+  background: #1a2821;
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1152px;
+  height: 368px;
+  position: absolute;
+  left: 0px;
+  top: 6146px;
+}
+.container65 {
+  padding: 50px 10px 50px 10px;
+  flex-shrink: 0;
+  display: grid;
+  gap: 48px;
+  row-gap: 0px;
+  position: relative;
+  grid-template-columns: repeat(4, fit-content(100%));
+  grid-template-rows: repeat(1, fit-content(100%));
+}
+.container66 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 244px;
+  height: 163px;
+  position: relative;
+  grid-column: 1 / span 1;
+  grid-row: 1 / span 1;
+}
+.container67 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 175px;
+  height: 39px;
+  position: relative;
+}
+.paragraph19 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 72px;
+  position: relative;
+}
+.intelig-ncia-de-dados-acess-vel-para-gestores-de-s {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+  width: 184px;
+}
+.container68 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 244px;
+  height: 163px;
+  position: relative;
+  grid-column: 2 / span 1;
+  grid-row: 1 / span 1;
+}
+.heading-36 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 27px;
+  position: relative;
+}
+.solu-o {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 120px;
+  position: relative;
+}
+.list-item {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 83.9px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.dashboards2 {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.link2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 62.61px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.analytics {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.link3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 69.89px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.relat-rios2 {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.link4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 82.15px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.integra-es {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.container69 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 244px;
+  height: 163px;
+  position: relative;
+  grid-column: 3 / span 1;
+  grid-row: 1 / span 1;
+}
+.empresa {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.link5 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 73.74px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.sobre-n-s {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.link6 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 123.83px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.casos-de-sucesso {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.link7 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 31.85px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.blog {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.link8 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 61.91px;
+  height: 21.6px;
+  position: absolute;
+  left: 0px;
+  top: 0.8px;
+}
+.carreiras {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.container70 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 163px;
+  position: relative;
+  grid-column: 4 / span 1;
+  grid-row: 1 / span 1;
+}
+.heading-37 {
+  flex-shrink: 0;
+  width: 244px;
+  height: 27px;
+  position: relative;
+}
+.contato {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.list2 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 244px;
+  height: 96px;
+  position: relative;
+}
+.list-item2 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.icon72 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.link9 {
+  flex-shrink: 0;
+  width: 178.15px;
+  height: 24px;
+  position: relative;
+}
+.contato-vitadata-com-br {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.icon73 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.link10 {
+  flex-shrink: 0;
+  width: 106.69px;
+  height: 24px;
+  position: relative;
+}
+._11-3333-4444 {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.icon74 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  overflow: visible;
+}
+.text21 {
+  width: 94.58px;
+  height: 24px;
+  position: absolute;
+  left: 24px;
+  top: 0px;
+}
+.penedo-al {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.container71 {
+  border-style: solid;
+  border-color: #1e2939;
+  border-width: 0.8px 0px 0px 0px;
+  padding: 32.8px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 56.8px;
+  position: relative;
+}
+.container72 {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.paragraph20 {
+  flex-shrink: 0;
+  width: 328.95px;
+  height: 24px;
+  position: relative;
+}
+._2026-vita-data-todos-os-direitos-reservados {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.container73 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 286.11px;
+  height: 24px;
+  position: relative;
+}
+.link11 {
+  flex-shrink: 0;
+  width: 157.7px;
+  height: 24px;
+  position: relative;
+}
+.pol-tica-de-privacidade {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.link12 {
+  flex-shrink: 0;
+  width: 104.41px;
+  height: 24px;
+  position: relative;
+}
+.termos-de-uso {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.header {
+  background: rgba(255, 255, 255, 0.95);
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0px 0px 0.8px 0px;
+  padding: 0px 64px 0.8px 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1152px;
+  height: 72.8px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container74 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 72px;
+  position: relative;
+}
+.container75 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 145.95px;
+  height: 40px;
+  position: relative;
+}
+.vitadata-1 {
+  flex-shrink: 0;
+  width: 171px;
+  height: 40px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 171/40;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 379.59px;
+  height: 36px;
+  position: relative;
+}
+.link13 {
+  flex-shrink: 0;
+  width: 55.71px;
+  height: 24px;
+  position: relative;
+}
+.solu-o2 {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.link14 {
+  flex-shrink: 0;
+  width: 71.28px;
+  height: 24px;
+  position: relative;
+}
+.benef-cios {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.link15 {
+  flex-shrink: 0;
+  width: 41.21px;
+  height: 24px;
+  position: relative;
+}
+.sobre {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.2px;
+}
+.button10 {
+  background: linear-gradient(
+    90deg,
+    rgba(52, 78, 65, 1) 0%,
+    rgba(88, 129, 87, 1) 100%
+  );
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 115.39px;
+  height: 36px;
+  position: relative;
+}
+.fale-conosco {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Arimo-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
