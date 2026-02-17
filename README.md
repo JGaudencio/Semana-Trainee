@@ -63,9 +63,9 @@ Uso de commits descritivos para cada funcionalidade implementada;
 Backend modularizado para facilitar a manutenção da pasta de leads.
 
 🌐 Deploy
-Plataforma de deploy: [INSERIR ONDE VOCÊ FEZ O DEPLOY, ex: Vercel/Render]
+Plataforma de deploy: [Netlify]
 
-Link do deploy: [INSERIR LINK AQUI]
+Link do deploy: (https://semana-trainee.netlify.app/)
 
 📂 Estrutura do Projeto
 
