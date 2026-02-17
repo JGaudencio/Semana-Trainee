@@ -1,149 +1,96 @@
-# 🚀 Semana Imersão Trainee da Diretoria de Projetos – RocketJR
-
-Este repositório faz parte das atividades da Semana de Trainee e tem como objetivo avaliar a organização, clareza e capacidade de documentação do projeto, além do desenvolvimento técnico. Contendo o projeto desenvolvido durante a **Imersão da Diretoria de Projetos da RocketJR – Janeiro/2026**.
-
-O objetivo da atividade é simular o ciclo completo de um projeto real, desde o contato inicial com o cliente até a entrega final com deploy, aplicando boas práticas de organização, versionamento, comunicação e desenvolvimento técnico.
-
-## 📌 Orientações
-
-- Cada equipe (ou participante) deve detalhar neste README todas as informações relevantes do projeto.
-- É obrigatório descrever de forma clara:
-- Os requisitos do projeto
-- As tecnologias utilizadas
-- As instruções para execução (se aplicável)
-- Qualquer outra informação que ajude no entendimento do projeto
-
-📝 Observação
-
-Este README faz parte da avaliação técnica e de processo da Imersão.
-
-Um README bem estruturado e explicativo é parte essencial do processo. Clareza, organização e coerência entre requisitos, protótipo e entrega final são critérios fundamentais
-
----
-
-## 📌 Sobre o Projeto
-
-> **Descreva aqui, em poucas linhas, o que foi desenvolvido.**  
-> Explique o tipo de solução (ex: Landing Page), o objetivo do projeto e o contexto geral.
-
-**Exemplo:**  
-Este projeto consiste no desenvolvimento de uma Landing Page institucional para um cliente real da RocketJR, com foco em apresentação de serviços e captação de contatos, seguindo os requisitos levantados em reunião com o cliente.
-
-
-## 👥 Equipe
-
-> Liste os integrantes do grupo. Caso desejem, podem indicar responsabilidades.
-
-- Nome – Função (opcional)
-- Nome – Função
-- Nome – Função
-
-
-## 🎯 Cliente
-
-> Informe quem é o cliente e qual a necessidade principal identificada.
-
-- **Cliente:**  
-- **Objetivo do projeto:**  
-
-
-## 📋 Levantamento de Requisitos
-
-> Esta seção é **obrigatória**.  
-> Os requisitos **não foram fornecidos pela RocketJR** — eles devem ser levantados, documentados e validados pelo grupo.
-
-### Requisitos Funcionais
-Descreva as funcionalidades que o sistema deve possuir.
-
-- RF01 –  
-- RF02 –  
-
-### Requisitos Não Funcionais
-Descreva critérios de qualidade, desempenho, usabilidade, responsividade, etc.
-
-- RNF01 –  
-- RNF02 –  
-
-📎 *Os registros formais de validação (ata, mensagens ou confirmação do cliente) devem ser enviados no Classroom.*
-
-
-## 🎨 Prototipação
-
-> Informe como foi realizada a prototipação e a validação visual do projeto.
-
-- **Ferramenta utilizada:** Figma  
-- **Link do protótipo:**  [INSERIR LINK]
-- **Status:** Aprovado pelo cliente  
-
-
-## 🛠️ Tecnologias Utilizadas
-
-> Liste as linguagens, frameworks e ferramentas escolhidas.  
-> A escolha tecnológica é livre e será considerada na avaliação conforme complexidade, adequação e organização.
-
-Exemplo:
-- HTML  
-- CSS  
-- Framework / Biblioteca (se aplicável)  
-
-
-## 🔧 Organização e Versionamento
-
-Este projeto seguiu as diretrizes da Diretoria de Projetos da RocketJR:
-
-- Repositório criado a partir de **fork** do repositório base;
-- Desenvolvimento realizado exclusivamente neste fork;
-- Uso de commits frequentes e bem descritos;
-- Organização clara de pastas e arquivos;
-- Pull Request aberto ao final da atividade.
-
-
-## 🌐 Deploy
-
-> Informe onde o projeto foi publicado e como pode ser acessado.
-
-- **Plataforma de deploy:**  
-- **Link do deploy:**  
-
-*A escolha da plataforma é livre, desde que o resultado seja funcional, estável e público.*
-
-
-## 📂 Estrutura do Projeto
-
-> Apresente a estrutura principal do projeto.
-
-```bash
-/
-├── ...
-```
-
-**Exemplo:**  
-
-```bash
-/
-├── index.html
-├── css/
-├── assets/
-└── README.md
-```
-
----
-
-## 📝 Observações Finais
-
-> Após as alterações do README dentro do fork, vocês irão apagar as informações descritividas que serviram de orientação para que fique apenas as informações do projeto.
-
-**Exemplo:**  
-Dentro de "Sobre o Projeto", irão apagar a parte descritiva e deixando a explicação, ficando assim:
-
+🚀 Semana Imersão Trainee da Diretoria de Projetos – RocketJR
+Este repositório contém o projeto desenvolvido durante a Imersão da Diretoria de Projetos da RocketJR – Janeiro/2026. O foco do trabalho foi simular o ciclo completo de um projeto real, integrando desenvolvimento frontend, backend e gestão de dados.
 
 📌 Sobre o Projeto
+O Vitadata é uma solução de inteligência de dados voltada para gestores de pequenas e médias clínicas. O projeto consiste em uma Landing Page estratégica que utiliza um Funil de Qualificação (Quiz) para identificar as dores do cliente, aliada a um Módulo de Gestão (CRM) backend que armazena e organiza leads para a equipe comercial. A solução transforma dados brutos em clareza estratégica para o setor de saúde.
 
-Este projeto consiste no desenvolvimento de uma Landing Page institucional para um cliente real da RocketJR, com foco em apresentação de serviços e captação de contatos, seguindo os requisitos levantados em reunião com o cliente.
+👥 Equipe
+João Gaudêncio – Desenvolvedor Full Stack & Gestão de Dados
+Mariane de Alcântara - Product Designer UX/UI
+Fernanda Carvalho - Analista de Processos
+
+🎯 Cliente
+Cliente: Vitadata | Saúde Inteligente.
+
+Objetivo do projeto: Criar uma presença digital que não apenas apresente o serviço, mas que qualifique o potencial cliente através de dados de faturamento e desafios operacionais, entregando uma base de dados pronta para conversão.
+
+📋 Levantamento de Requisitos
+Requisitos Funcionais
+RF01: O sistema deve apresentar um Quiz de 3 etapas para diagnóstico da clínica.
+
+RF02: O sistema deve capturar dados de contato (nome, e-mail, telefone, faturamento e plano de interesse).
+
+RF03: O sistema deve salvar os dados consolidados (Quiz + Contato) em um arquivo JSON no servidor.
+
+RF04: Deve existir uma interface administrativa (clientes.html) para visualização e filtragem dos leads capturados.
+
+RF05: O progresso do Quiz deve ser mantido mesmo se o usuário atualizar a página (Persistência local).
+
+Requisitos Não Funcionais
+RNF01: O frontend deve ser responsivo para dispositivos móveis e desktop.
+
+RNF02: O tempo de resposta do salvamento de leads deve ser inferior a 2 segundos.
+
+RNF03: Uso de persistência híbrida (LocalStorage para experiência do usuário e JSON para integridade dos dados).
+
+RNF04: Interface seguindo a identidade visual "Saúde Inteligente" (Verde Musgo e Inter Font).
+
+🎨 Prototipação
+Ferramenta utilizada: Figma
+
+Link do protótipo: [(https://www.figma.com/design/k0CT9u0yeKC1RYoVljSEkp/VITADATA?node-id=1-551&m=dev)]
+
+Status: Aprovado pelo cliente
+
+🛠️ Tecnologias Utilizadas
+Frontend: HTML5, CSS3, JavaScript (ES6+).
+
+Backend: Node.js com Framework Express.js.
+
+Bibliotecas: - Swiper.js (Carrosséis de depoimentos e planos).
+
+CORS (Segurança e integração entre portas).
+
+Banco de Dados: Estrutura de arquivos JSON via módulo FS (File System).
+
+🔧 Organização e Versionamento
+Este projeto seguiu as diretrizes da Diretoria de Projetos da RocketJR:
+
+Repositório organizado com separação clara entre lógica de cliente e servidor;
+
+Uso de commits descritivos para cada funcionalidade implementada;
+
+Backend modularizado para facilitar a manutenção da pasta de leads.
+
+🌐 Deploy
+Plataforma de deploy: [INSERIR ONDE VOCÊ FEZ O DEPLOY, ex: Vercel/Render]
+
+Link do deploy: [INSERIR LINK AQUI]
+
+📂 Estrutura do Projeto
+
+/
+├── leads/              # Armazenamento permanente (Banco de dados JSON)
+│   └── leads.json      # Arquivo onde os leads são acumulados
+├── assets/             # Imagens, logos e ícones
+├── css/                # Estilização e variáveis de design
+├── js/                 
+│   ├── script.js       # Lógica da Landing Page e integração com API
+│   └── script2.js      # Lógica de renderização e filtros do CRM
+├── index.html          # Landing Page e Quiz
+├── clientes.html       # Painel de Gestão de Clientes (CRM)
+├── server.js           # Servidor Node.js (API de persistência)
+├── package.json        # Dependências do projeto
+└── README.md           # Documentação do projeto
 
 
-## 📎 Referências e Materiais de Apoio
-- Guia de Projetos RocketJR
-- Padrões de Commits (Conventional Commits)
-- Material sobre Métodos Ágeis
-- Documentação das tecnologias utilizadas
+📝 Observações Finais
+O projeto destaca-se pela integração real entre o frontend e o backend no ambiente local. A implementação do servidor Node.js permitiu que o arquivo leads.json funcionasse como um banco de dados dinâmico, simulando com precisão o fluxo de dados de uma aplicação comercial em produção.
+
+📎 Referências e Materiais de Apoio
+
+Guia de Projetos RocketJR
+
+Documentação MDN Web Docs
+
+Documentação oficial do Node.js e Express.js

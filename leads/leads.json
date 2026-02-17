@@ -1,0 +1,37 @@
+[
+    
+    {
+        "id": 1771364400010,
+        "data_registro": "17/02/2026, 19:10:45",
+        "quiz": {
+            "Qual o maior desafio atual da sua clínica?": "Sistemas de gestão",
+            "Você toma decisões baseadas em dados hoje?": "Sim, mas é difícil extrair",
+            "Qual o faturamento médio da sua clínica?": "Acima de R$ 200k /mês"
+        },
+        "contato": {
+            "nome": "Dra. Aline Moraes",
+            "email": "aline.moraes@cardioprime.med",
+            "telefone": "48991122334",
+            "faturamento": "420000",
+            "plano": "estrategico",
+            "data_envio": "17/02/2026 19:10:45"
+        }
+    },
+    {
+        "id": 1771366035804,
+        "data_registro": "17/02/2026, 19:07:15",
+        "quiz": {
+            "Qual o maior desafio atual da sua clínica?": "Organização de dados",
+            "Você toma decisões baseadas em dados hoje?": "Sim, mas é difícil extrair",
+            "Qual o faturamento médio da sua clínica?": "Até R$ 50k /mês"
+        },
+        "contato": {
+            "nome": "Joao gaudencio ",
+            "email": "tetse@kkk.com",
+            "telefone": "1199232323",
+            "faturamento": "5000000",
+            "plano": "performance",
+            "data_envio": "17/02/2026 19:07:15"
+        }
+    }
+]

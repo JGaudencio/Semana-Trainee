@@ -12,7 +12,42 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
+
+<body class="quiz-active">
+
+    <div id="quiz-overlay" class="quiz-overlay">
+        <div class="quiz-container">
+            <div id="quiz-step-1" class="quiz-step active">
+                <span class="step-count">Passo 1 de 3</span>
+                <h2>Qual o maior desafio atual da sua clínica?</h2>
+                <div class="quiz-options">
+                    <button onclick="nextStep(2)">Organização de dados</button>
+                    <button onclick="nextStep(2)">Redução de custos</button>
+                    <button onclick="nextStep(2)">Aumento de produtividade</button>
+                </div>
+            </div>
+
+            <div id="quiz-step-2" class="quiz-step">
+                <span class="step-count">Passo 2 de 3</span>
+                <h2>Você toma decisões baseadas em dados hoje?</h2>
+                <div class="quiz-options">
+                    <button onclick="nextStep(3)">Sim, mas é difícil extrair</button>
+                    <button onclick="nextStep(3)">Não, uso apenas intuição</button>
+                    <button onclick="nextStep(3)">Uso planilhas manuais</button>
+                </div>
+            </div>
+
+            <div id="quiz-step-3" class="quiz-step">
+                <span class="step-count">Passo 3 de 3</span>
+                <h2>Qual o faturamento médio da sua clínica?</h2>
+                <div class="quiz-options">
+                    <button onclick="finishQuiz()">Até R$ 50k /mês</button>
+                    <button onclick="finishQuiz()">R$ 50k a R$ 200k /mês</button>
+                    <button onclick="finishQuiz()">Acima de R$ 200k /mês</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <header class="main-header">
         <div class="container header-container">
@@ -334,22 +369,22 @@
                         <div class="form-row">
                             <div class="form-group">
                                 <label>Nome Completo *</label>
-                                <input type="text" placeholder="Seu nome completo" required>
+                                <input type="text" name="nome" placeholder="Seu nome completo" required>
                             </div>
                             <div class="form-group">
                                 <label>E-mail *</label>
-                                <input type="email" placeholder="seu@email.com" required>
+                                <input type="email" name="email" placeholder="seu@email.com" required>
                             </div>
                         </div>
 
                         <div class="form-row">
                             <div class="form-group">
                                 <label>Telefone/WhatsApp *</label>
-                                <input type="tel" placeholder="(11) 99999-9999" required>
+                                <input type="tel" name="telefone" placeholder="(11) 99999-9999" required>
                             </div>
                             <div class="form-group">
                                 <label>Faturamento Mensal *</label>
-                                <input type="text" placeholder="Ex: R$ 50.000,00" required>
+                                <input type="text" name="faturamento" placeholder="Ex: R$ 50.000,00" required>
                             </div>
                         </div>
 
@@ -431,7 +466,7 @@
             </div>
         </div>
     </div>
-</footer>
+    </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="js/script.js"></script>

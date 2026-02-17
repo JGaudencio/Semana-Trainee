@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Clientes | Gestão de Alta Performance</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="container header-container">
+            <div class="logo"><img src="assets/logo.png" alt="Logo"></div>
+            <nav class="nav-menu">
+                <div class="nav-links">
+                    <a href="index.html">Home</a>
+                    <a href="clientes.html">Clientes</a>
+                </div>
+                <a href="#" class="btn-header">Novo Lead</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <span class="tag-label">BASE DE DADOS</span>
+                <h1>Clientes <span class="green-text">Ativos</span></h1>
+                <p>Exibindo apenas cadastros com faturamento acima de <strong>R$ 50.000,00</strong>.</p>
+            </div>
+        </section>
+
+        <section class="client-list-section">
+            <div class="container">
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Nome</th>
+                                <th>Telefone</th>
+                                <th>E-mail</th>
+                                <th>Faturamento</th>
+                                <th>Plano</th>
+                            </tr>
+                        </thead>
+                        <tbody id="lista-corpo">
+                            </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="js/script2.js"></script>
+</body>
+</html>

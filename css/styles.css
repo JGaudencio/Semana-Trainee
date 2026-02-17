@@ -449,6 +449,155 @@ body { font-family: 'Inter', sans-serif; background-color: var(--bg-light); colo
 }
 
 
+/* Estilos do Quiz Overlay */
+.quiz-overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(10, 22, 41, 0.95); /* Azul escuro do seu header com opacidade */
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quiz-container {
+    background: white;
+    padding: 40px;
+    border-radius: 24px;
+    max-width: 500px;
+    width: 90%;
+    text-align: center;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+}
+
+.quiz-step { display: none; }
+.quiz-step.active { display: block; animation: fadeIn 0.5s; }
+
+.step-count {
+    color: #3D5A45;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.quiz-container h2 {
+    color: #0A1629;
+    margin: 20px 0 30px;
+    font-size: 24px;
+}
+
+.quiz-options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.quiz-options button {
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: 500;
+}
+
+.quiz-options button:hover {
+    background: #DDE5DE;
+    border-color: #3D5A45;
+    color: #3D5A45;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Estilos específicos para a listagem que complementam seu CSS */
+        .page-header {
+            padding: 120px 0 40px;
+            background: var(--white);
+            border-bottom: 1px solid #eee;
+        }
+
+        .client-list-section {
+            padding: 60px 0;
+            min-height: 70vh;
+        }
+
+        .table-container {
+            background: var(--white);
+            border-radius: 16px;
+            box-shadow: var(--card-shadow);
+            overflow-x: auto;
+            border: 1px solid #f0f0f0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        th {
+            background-color: #F8FAFC;
+            padding: 20px;
+            color: var(--heading-color);
+            font-weight: 700;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        td {
+            padding: 20px;
+            border-top: 1px solid #f0f0f0;
+            vertical-align: middle;
+            font-size: 0.95rem;
+        }
+
+        .client-name {
+            font-weight: 600;
+            color: var(--heading-color);
+        }
+
+        /* Estilização das Tags de Plano */
+        .plan-tag {
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            display: inline-block;
+        }
+        .essencial { background: #E2E8F0; color: #475569; }
+        .performance { background: #DDE5DE; color: var(--dark-green); }
+        .estrategico { background: #3D5A45; color: white; }
+
+        .revenue {
+            font-weight: 700;
+            color: var(--dark-green);
+        }
+
+        @media (max-width: 768px) {
+            th { display: none; }
+            td { display: block; padding: 10px 20px; border: none; }
+            td:first-child { padding-top: 25px; font-size: 1.1rem; }
+            td:last-child { padding-bottom: 25px; border-bottom: 2px solid #eee; }
+            td::before {
+                content: attr(data-label);
+                font-weight: 700;
+                display: block;
+                font-size: 0.75rem;
+                color: #999;
+                text-transform: uppercase;
+            }
+        }
+
+
 
 
 

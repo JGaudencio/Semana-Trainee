@@ -1,0 +1,25 @@
+{
+  "name": "semana-trainee",
+  "version": "1.0.0",
+  "description": "Este repositório faz parte das atividades da Semana de Trainee e tem como objetivo avaliar a organização, clareza e capacidade de documentação do projeto, além do desenvolvimento técnico. Contendo o projeto desenvolvido durante a **Imersão da Diretoria de Projetos da RocketJR – Janeiro/2026**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGaudencio/Semana-Trainee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JGaudencio/Semana-Trainee/issues"
+  },
+  "homepage": "https://github.com/JGaudencio/Semana-Trainee#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}

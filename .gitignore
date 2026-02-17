@@ -1,0 +1,15 @@
+# Dependências (Node.js)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema Operacional (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Logs do servidor e arquivos temporários
+
+
+# Variáveis de ambiente
+.env
