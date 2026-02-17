@@ -340,6 +340,10 @@ body { font-family: 'Inter', sans-serif; background-color: var(--bg-light); colo
 .footer-logo {
     height: 35px;
     margin-bottom: 25px;
+    
+    display: block;    /* Transforma em bloco para ocupar a linha */
+    margin-left: auto;  /* Empurra da esquerda para o centro */
+    margin-right: auto; /* Empurra da direita para o centro */
 }
 
 .footer-brand p {
@@ -443,6 +447,8 @@ body { font-family: 'Inter', sans-serif; background-color: var(--bg-light); colo
         text-align: center;
     }
 }
+
+
 
 
 
